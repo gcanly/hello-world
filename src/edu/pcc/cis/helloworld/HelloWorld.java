@@ -1,4 +1,4 @@
-//Author : Can Ly
+/* Author Can Ly */
 
 package edu.pcc.cis.helloworld;
 
